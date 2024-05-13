@@ -65,6 +65,11 @@ Source: Frascati Manual 2015, Section 7.2
 ### Government  
 
 ### Higher Education
+The Higher Education sector is composed of:
+- All universities, colleges of technology and other institutions providing formal tertiary education programmes, whatever their source of finance or legal status
+- All research institutes, centres, experimental stations and clinics that have their R&D activities under the direct control of, or administered by, tertiary education institutions.
+
+Source: Frascati Manual 2015, Section 9.2
 
 ### Private Non-Profit
 
