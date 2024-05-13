@@ -5,7 +5,7 @@ This repository contains data sets relating to Research & Development Expenditur
 Source data can be found here:
 https://ec.europa.eu/eurostat/databrowser/product/page/RD_E_GERDACT
 
-These datasets are broken down by the following dimenisions:
+These datasets are broken down by the following dimensions:
 
 ## Geography / Country
 
