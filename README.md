@@ -9,48 +9,26 @@ These datasets are broken down by the following dimensions:
 
 ## Geography / Country
 
-Austria
-Bosnia and Herzegovina
-Belgium
-Bulgaria
-Switzerland                              
-China except Hong Kong
-Cyprus
-Czechia
-Germany
-Denmark                                
-Estonia
-Greece
-Spain
-Finland
-France                                  
-Croatia
-Hungary
-Ireland
-Iceland
-Italy                                    
-Japan
-South Korea
-Lithuania
-Luxembourg
-Latvia                                   
-North Macedonia
-Malta
-Netherlands
-Norway
-Poland                                   
-Portugal
-Romania
-Serbia
-Sweden
-Slovenia                                 
-Slovakia
-Türkiye
-United Kingdom
-United States
-Euro area - 19 countries  (2015-2022)   
-Euro area – 20 countries (from 2023)      
-European Union - 27 countries (from 2020)
+### Geography
+- Euro area - 19 countries  (2015-2022)   
+- Euro area – 20 countries (from 2023)      
+- European Union - 27 countries (from 2020)
+
+|  |  |  | 
+| --- | --- | --- |
+| Austria | Bosnia and Herzegovina | Belgium |
+| Bulgaria | China except Hong Kong | Croatia |
+| Cyprus | Czechia | Denmark |
+| Estonia | Finland | France |
+| Germany | Greece | Hungary |
+| Ireland | Iceland | Italy |                                 
+| Japan | Lithuania | Luxembourg |
+| Latvia | North Macedonia | Malta |
+| Netherlands | Norway | Poland |
+| Portugal | Romania | Serbia |
+| Switzerland | South Korea | Spain |
+| Sweden | Slovenia | Slovakia |
+| Türkiye | United Kingdom | United States |
 
 ## Sector of Performance
 <details> 
