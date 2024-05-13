@@ -8,6 +8,8 @@ https://ec.europa.eu/eurostat/databrowser/product/page/RD_E_GERDACT
 These datasets are broken down by the following dimensions:
 
 ## Geography / Country
+<details> 
+<summary>Expand Geography / Country</summary>
 
 ### Geography
 - Euro area - 19 countries  (2015-2022)   
@@ -29,6 +31,8 @@ These datasets are broken down by the following dimensions:
 | Switzerland | South Korea | Spain |
 | Sweden | Slovenia | Slovakia |
 | Türkiye | United Kingdom | United States |
+
+</details>
 
 ## Sector of Performance
 <details> 
