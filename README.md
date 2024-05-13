@@ -53,7 +53,10 @@ Euro area – 20 countries (from 2023)
 European Union - 27 countries (from 2020)
 
 ## Sector of Performance
-### Business Enterprise
+<details> 
+<summary>Expand Sector of Performance</summary>
+
+  ### Business Enterprise
 The Business Enterprise sector comprises:
 - All resident corporations, including not only legally incorporated enterprises, regardless of the residence of their shareholders. This group includes all other types of quasi-corporations, i.e. units capable of generating a profit or other financial gain for their owners, recognised by law as separate legal entities from their owners, and set up for the purpose of engaging in market production at prices that are economically significant. They include both financial and non-financial corporations.
 -  The unincorporated branches of non-resident enterprises deemed to be resident and part of this sector because they are engaged in production on the economic territory on a long-term basis.
@@ -63,6 +66,9 @@ The Business Enterprise sector comprises:
 Source: Frascati Manual 2015, Section 7.2
 
 ### Government  
+The Government sector comprises all units of central (federal), regional (state) and municipal (local) government, including social security funds, except those units that fit the description of higher education institutions as well as all nonmarket non-profit institutions that are controlled by government units, and that are not themselves part of the Higher education sector. 
+
+Source: Frascati Manual 2015, Section 8.2
 
 ### Higher Education
 The Higher Education sector is composed of:
@@ -80,6 +86,9 @@ The Private Non-Profit sector comprises:
 Source: Frascati Manual 2015, Section 10.2
 
 ### Total
+Total Gross Expenditure on Reasearch and Development. Please note that totaling the other four sectors for any given year may not result in an equal value to TOTAL in the dataset. This is due to the use of interpolated values. 
+
+</details>
 
 ## Research & Development Activity
 - Applied research
