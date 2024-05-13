@@ -5,7 +5,24 @@ This repository contains data sets relating to Research & Development Expenditur
 Source data can be found here:
 https://ec.europa.eu/eurostat/databrowser/product/page/RD_E_GERDACT
 
-These datasets are broken down by the following dimensions:
+## Field Definitions
+
+|       Field       | Field Description |
+| ----------------: | :---------------- |
+|        geo        | Geography / Country Code |
+|      geo_name     | Geography / Country Label |
+|     sect_perf     | Sector of Performance Code |
+|  sect_perf_names  | Sector of Performance Label |
+|        unit       | Unit of Measure Code |
+|     unit_name     | Unit of Measure Label |
+|      rnd_act      | R&D Activity Code |
+|    rnd_act_name   | R&D Activity Label |
+|        year       | Year |
+|        value      | Value of measurement in the specified units |
+|     value_note    | Note on measurement |
+| interpolated_flag | Indicator of whether or not the value was interpolated |
+
+      
 
 ## Geography / Country
 <details> 
