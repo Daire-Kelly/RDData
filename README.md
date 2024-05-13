@@ -53,18 +53,18 @@ Euro area – 20 countries (from 2023)
 European Union - 27 countries (from 2020)
 
 ## Sector of Performance
-Business Enterprise
-Government  
-Higher Education
-Private Non-Profit
-Total
+- Business Enterprise
+- Government  
+- Higher Education
+- Private Non-Profit
+- Total
 
 ## Research & Development Activity
-Applied research
-Basic research
-Experimental development
-Not specified
-Total
+- Applied research
+- Basic research
+- Experimental development
+- Not specified
+- Total
 
 ## Unit of Measure
-Purchasing Power Parity at 2005 prices. (Euro) - RD_PPS_KP05.csv
+- Purchasing Power Parity at 2005 prices. (Euro) - RD_PPS_KP05.csv
