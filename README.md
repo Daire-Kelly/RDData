@@ -53,11 +53,21 @@ Euro area – 20 countries (from 2023)
 European Union - 27 countries (from 2020)
 
 ## Sector of Performance
-- Business Enterprise
-- Government  
-- Higher Education
-- Private Non-Profit
-- Total
+### Business Enterprise
+The Business enterprise sector comprises:
+- All resident corporations, including not only legally incorporated enterprises, regardless of the residence of their shareholders. This group includes all other types of quasi-corporations, i.e. units capable of generating a profit or other financial gain for their owners, recognised by law as separate legal entities from their owners, and set up for the purpose of engaging in market production at prices that are economically significant. They include both financial and non-financial corporations.
+-  The unincorporated branches of non-resident enterprises deemed to be resident and part of this sector because they are engaged in production on the economic territory on a long-term basis.
+- All resident non-profit institutions (NPIs) that are market producers of goods or services or serve business. The former NPI category comprise independent research institutes, clinics and other institutions whose main activity is the production of goods and services for sale at prices designed to recover their full economic costs. The latter category of NPIs serving business comprises entities controlled by business associations and financed by contributions and subscriptions.
+- Specifically excluded are units that belong to the Higher education sector. However, commercial firms owned by higher education institutions, for example as a result of agreements that give the university a major shareholding position in a spin-off company set up by staff and/or students, should be treated as business enterprises.
+Source: Frascati Manual 2015, Section 7.2
+
+### Government  
+
+### Higher Education
+
+### Private Non-Profit
+
+### Total
 
 ## Research & Development Activity
 - Applied research
