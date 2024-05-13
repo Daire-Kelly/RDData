@@ -59,6 +59,7 @@ The Business enterprise sector comprises:
 -  The unincorporated branches of non-resident enterprises deemed to be resident and part of this sector because they are engaged in production on the economic territory on a long-term basis.
 - All resident non-profit institutions (NPIs) that are market producers of goods or services or serve business. The former NPI category comprise independent research institutes, clinics and other institutions whose main activity is the production of goods and services for sale at prices designed to recover their full economic costs. The latter category of NPIs serving business comprises entities controlled by business associations and financed by contributions and subscriptions.
 - Specifically excluded are units that belong to the Higher education sector. However, commercial firms owned by higher education institutions, for example as a result of agreements that give the university a major shareholding position in a spin-off company set up by staff and/or students, should be treated as business enterprises.
+
 Source: Frascati Manual 2015, Section 7.2
 
 ### Government  
