@@ -91,11 +91,38 @@ Total Gross Expenditure on Reasearch and Development. Please note that totaling 
 </details>
 
 ## Research & Development Activity
-- Applied research
-- Basic research
-- Experimental development
-- Not specified
-- Total
+<details> 
+<summary>Expand Research & Development Activity</summary>
+
+### Applied research
+- Applied research is original investigation undertaken in order to acquire new knowledge. It is, however, directed primarily towards a specific, practical aim or objective.
+- Applied research is undertaken either to determine possible uses for the findings of basic research or to determine new methods or ways of achieving specific and predetermined objectives. It involves considering the available knowledge and its extension in order to solve actual problems. In the Business enterprise sector, the distinction between basic and applied research is often marked by the creation of a new project to explore promising results of a basic research programme (moving from a long-term to a medium-short term perspective in the exploitation of the results of intramural R&D).
+- The results of applied research are intended primarily to be valid for possible applications to products, operations, methods or systems. Applied research gives operational form to ideas. The applications of the knowledge derived can be protected by intellectual property instruments, including secrecy.
+
+Source: Frascati Manual 2015, Section 2.5
+
+### Basic research
+- Basic research is experimental or theoretical work undertaken primarily to acquire new knowledge of the underlying foundations of phenomena and observable facts, without any particular application or use in view.
+- Basic research analyses properties, structures and relationships with a view to formulating and testing hypotheses, theories or laws. The reference to no “particular application in view” in the definition of basic research is crucial, as the performer may not know about potential applications when doing the research or responding to survey questionnaires. The results of basic research are not generally sold but are usually published in scientific journals or circulated to interested colleagues. Occasionally, the publication of basic research may be restricted for reasons of national security
+
+Source: Frascati Manual 2015, Section 2.5
+
+### Experimental development
+- Experimental development is systematic work, drawing on knowledge gained from research and practical experience and producing additional knowledge, which is directed to producing new products or processes or to improving existing products or processes.
+- The development of new products or processes qualifies as experimental development if it meets the criteria for identifying R&D activity. An example is uncertainty about the resources needed to achieve the goal of the R&D project in which the development activity is taking place. In these datasets, the “D” in R&D refers to experimental development.
+- **Not “product development”** The concept of experimental development should not be confused with “product development”, which is the overall process – from the formulation of ideas and concepts to commercialisation – aimed at bringing a new product (good or service) to the market. Experimental development is just one possible stage in the product development process: that stage when generic knowledge is actually tested for the specific applications needed to bring such a process to a successful end. During the experimental development stage new knowledge is generated, and that stage comes to an end when the R&D criteria (novel, uncertain, creative, systematic, and transferable
+and/or reproducible) no longer apply. As an example, in a process aimed at developing a new car, the option to adopt some technologies could be taken into consideration and tested for use in the car under development: this is the stage when experimental development is performed. It will lead to new results by dealing with new applications of some general knowledge; it will be uncertain, because testing could give rise to negative results; it will have to be creative, as the activity will focus on the adaptation of some technology to a new use; it will be formalised, by needing the commitment of a specialised workforce; and it will involve a codification, in order to translate the results of the tests into technical recommendations for the further stages of the product development process. However, there are cases of product development without R&D that are discussed in the economics literature, especially in the case of SMEs.
+- **Not “pre-production development”** The concept of experimental development should not be confused with “pre-production development”, which is the term used to describe nonexperimental work on a defence or aerospace product or system before it goes into production. Similar cases apply in other industries. It is difficult to define precisely the cut-off point between experimental development and preproduction development; the distinction between these two categories requires “engineering judgement” as to when the element of novelty ceases and the work changes to routine development of an integrated system.
+
+Source: Frascati Manual 2015, Section 2.5
+
+### Not specified
+R&D activities without a specified category
+
+### Total
+Total Gross Expenditure on Reasearch and Development. Please note that totaling the other four sectors for any given year may not result in an equal value to TOTAL in the dataset. This is due to the use of interpolated values. 
+
+</details>
 
 ## Unit of Measure
 - Purchasing Power Parity at 2005 prices. (Euro) - RD_PPS_KP05.csv
