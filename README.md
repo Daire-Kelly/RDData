@@ -1,9 +1,12 @@
 # Research & Development Data Sets 2000 - 2022
 
-This repository contains data sets relating to Research & Development Expenditure sourced from Eurostat. The source data has been processed to improve usability.
+This repository contains visualisations and data sets relating to Research & Development Expenditure sourced from Eurostat. The source data has been processed to improve usability.
 
 Source data can be found here:
 https://ec.europa.eu/eurostat/databrowser/product/page/RD_E_GERDACT
+
+Datasets are split by the factors detailed below.
+Animated visualisations are in the Animations folder.
 
 ## Field Definitions
 
